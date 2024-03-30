@@ -1,6 +1,6 @@
 {
   "name": "m2h4_atm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ATM machine",
   "main": "index.js",
   "type":"module",
