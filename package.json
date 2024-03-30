@@ -1,10 +1,10 @@
 {
-  "name": "mehwish2_atm",
-  "version": "1.0.2",
+  "name": "m2h4_atm",
+  "version": "1.0.1",
   "description": "ATM machine",
   "main": "index.js",
   "type":"module",
-  "bin":"index.js",
+  "bin":"main.js",
 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
